@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mwima1980
 - 👀 I’m interested in ...
 - 📫 How to reach me ...
-.
+. I love coding
 
 <!---
 mwima1980/mwima1980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
